@@ -1,0 +1,1 @@
+https://www.sitepoint.com/django-photo-sharing-app/
